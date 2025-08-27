@@ -43,7 +43,7 @@ const PROJECTS = [
       "Real-time alerting and dashboard monitoring"
     ],
     links: {
-      github: "https://github.com/Monaheng57662279/fraud-detection-system",
+      github: "https://github.com/Monaheng57662279/Fraud-Detection-over-USSD-Transactions-",
       demo: "#"
     },
     image: "/images/fraud-detection.jpg"
@@ -87,7 +87,7 @@ const PROJECTS = [
       "Integration with major ELD hardware providers"
     ],
     links: {
-      github: "https://github.com/Monaheng57662279/eld-system",
+      github: "https://github.com/Monaheng57662279/eld-app",
       demo: "#"
     },
     image: "/images/eld-system.jpg"
